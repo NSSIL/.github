@@ -18,5 +18,3 @@
 | Energy-Efficient Information Processing and Eligibility | [NSSIL/Energy-efficient-information-processing-and-eligibility](https://github.com/NSSIL/Energy-efficient-information-processing-and-eligibility) | Code, processed data products, figure generators, and curated outputs for the Drosophila optic-lobe connectome study. |
 | ScaleBreak-FlyVis | [NSSIL/ScaleBreak-FlyVis](https://github.com/NSSIL/ScaleBreak-FlyVis) | Project code and reproducibility materials for ScaleBreak-FlyVis. |
 
-Open each project repository for its documentation, environment requirements, data-availability notes, and citation guidance.
-
