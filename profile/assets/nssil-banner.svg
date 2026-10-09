@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title description">
+  <title id="title">NSSIL — Neural Systems and Signal Intelligence Laboratory</title>
+  <desc id="description">IIT Mandi, established 2023. Decoding the language of the brain. A geometric composition of arcs, circles, a grid, and connected nodes in coral, mint, and violet.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#172b35"/><stop offset="1" stop-color="#111923"/></linearGradient>
+    <linearGradient id="coral" x2="1" y2="1"><stop stop-color="#ffbf78"/><stop offset="1" stop-color="#ef786c"/></linearGradient>
+    <linearGradient id="mint" x2="1" y2="1"><stop stop-color="#b7dfbd"/><stop offset="1" stop-color="#6dbaa9"/></linearGradient>
+    <linearGradient id="violet" x2="1" y2="1"><stop stop-color="#c5afef"/><stop offset="1" stop-color="#907dcc"/></linearGradient>
+    <pattern id="checks" width="88" height="88" patternUnits="userSpaceOnUse"><rect width="44" height="44" fill="#f4d7e2" fill-opacity=".45"/><rect x="44" y="44" width="44" height="44" fill="#f4d7e2" fill-opacity=".45"/></pattern>
+    <clipPath id="grid-clip"><rect x="836" y="208" width="176" height="176"/></clipPath>
+  </defs>
+  <rect width="1280" height="400" fill="url(#background)"/>
+  <path d="M36 38H760M36 362H760" stroke="#41565f" stroke-width="1"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="44" y="76" fill="#bdcec9" font-size="15" letter-spacing="3">IIT MANDI / EST. 2023</text>
+    <text x="38" y="198" fill="#f5f1e8" font-size="118" font-weight="700" letter-spacing="-6">NSSIL</text>
+    <text x="44" y="248" fill="#f5f1e8" font-size="29" font-weight="500">Neural Systems &amp;</text>
+    <text x="44" y="286" fill="#f5f1e8" font-size="29" font-weight="500">Signal Intelligence Laboratory</text>
+    <text x="44" y="335" fill="#aac5bd" font-size="19">Decoding the language of the brain.</text>
+  </g>
+  <rect x="836" y="16" width="176" height="176" fill="url(#coral)"/>
+  <g fill="none" stroke="#713c4f" stroke-width="1.25" opacity=".82">
+    <path d="M844 192a168 168 0 0 1 168-168M865 192a147 147 0 0 1 147-147M886 192a126 126 0 0 1 126-126M907 192a105 105 0 0 1 105-105M928 192a84 84 0 0 1 84-84M949 192a63 63 0 0 1 63-63M970 192a42 42 0 0 1 42-42"/>
+  </g>
+  <rect x="1028" y="16" width="236" height="176" fill="url(#mint)"/>
+  <circle cx="1146" cy="104" r="67" fill="#284e51"/>
+  <path d="M1146 37a67 67 0 0 1 0 134Z" fill="#e7d18d"/>
+  <circle cx="1146" cy="104" r="78" fill="none" stroke="#284e51" opacity=".55"/>
+  <path d="M1028 104H1264M1146 16V192" stroke="#284e51" stroke-width=".7" opacity=".3"/>
+  <rect x="836" y="208" width="176" height="176" fill="url(#violet)"/>
+  <rect x="836" y="208" width="176" height="176" fill="url(#checks)"/>
+  <path d="M836 384 1012 208V384Z" fill="#604a92" fill-opacity=".32" clip-path="url(#grid-clip)"/>
+  <rect x="1028" y="208" width="236" height="176" fill="#28424c"/>
+  <g stroke="#a5cfc0" stroke-width="1.3" fill="none" opacity=".75">
+    <path d="M1070 340 1100 250 1164 286 1222 242 1211 347 1135 352 1100 250M1070 340 1164 286 1211 347M1135 352 1164 286"/>
+    <circle cx="1164" cy="286" r="26" stroke-dasharray="3 5" opacity=".6"/>
+  </g>
+  <g fill="#9ad2b9"><circle cx="1070" cy="340" r="7"/><circle cx="1100" cy="250" r="9"/><circle cx="1222" cy="242" r="7"/><circle cx="1135" cy="352" r="6"/></g>
+  <g fill="#f5a37c"><circle cx="1164" cy="286" r="11"/><circle cx="1211" cy="347" r="8"/></g>
+</svg>

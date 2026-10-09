@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="110" viewBox="0 0 640 110" role="img" aria-labelledby="title">
+  <title id="title">01 — Information and energy</title>
+  <defs><linearGradient id="warm" x2="1" y2="1"><stop stop-color="#ffd087"/><stop offset="1" stop-color="#ee826f"/></linearGradient></defs>
+  <rect width="640" height="110" fill="url(#warm)"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#362d37"><text x="28" y="34" font-size="12" letter-spacing="2">01 / FEATURED RESEARCH</text><text x="27" y="78" font-size="29" font-weight="600">Information &amp; energy.</text></g>
+  <g transform="translate(20,-54)" fill="none" stroke="#75405a" stroke-width="1.5" opacity=".75"><path d="M404 164a224 224 0 0 1 224-224M426 164a202 202 0 0 1 202-202M448 164a180 180 0 0 1 180-180M470 164a158 158 0 0 1 158-158M492 164a136 136 0 0 1 136-136M514 164a114 114 0 0 1 114-114M536 164a92 92 0 0 1 92-92M558 164a70 70 0 0 1 70-70"/></g>
+  <circle cx="564" cy="42" r="22" fill="#653750"/>
+  <circle cx="564" cy="42" r="10" fill="#ffd78f"/>
+</svg>
